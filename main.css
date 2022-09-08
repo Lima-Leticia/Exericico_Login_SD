@@ -1,0 +1,17 @@
+body{
+    float: left;
+    flex-direction: column;
+
+}
+
+h1{
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+input, label {
+    width: 300px;
+    padding: 10px;
+    margin-left: 20px;
+    margin-top: 10px;  
+}
